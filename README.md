@@ -1,5 +1,18 @@
 # Portfolio
 
+## About Me
+
+I am a Senior Analyst working within the water industry and studying Data Science Professional Practice at BPP.
+
+My interests include:
+
+- Data analytics
+- Power BI development
+- Predictive modelling
+- Asset management
+- Machine learning applications in utilities
+
+I enjoy using data to solve business problems and improve decision making.
 
 ## My skills
 
