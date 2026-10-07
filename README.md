@@ -1,9 +1,9 @@
 # Portfolio
 
-## My Skills
+
+## My skills
 
 ## Project
 
 Link to project [project](https://github.com/AXJAS/knapsack_problem/)
-
-![Histogram](/images/histrogram-example-2.png)
+![Histogram](/images/histogram-example-2.png)
