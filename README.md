@@ -27,6 +27,9 @@ I enjoy using data to solve business problems and improve decision making.
 
 Link to project [project](https://github.com/AXJAS/knapsack_problem/)
 
+
+Link to actual project [project](//github.com/YOUR_USERNAME/ds-project)
+
 My Data Science Project:
 
 [View://github.com/YOUR_USERNAME/ds-project
